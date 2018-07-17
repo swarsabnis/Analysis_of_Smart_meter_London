@@ -6,8 +6,9 @@
 
 	This dataset was used to understand energy consumption patterns across different acorn groups. Initial analysis consisted of understanding different acorn groups and point of difference within them. Dived into the half hourly dataset which comprised data for different household energy consumption monitored every half hour to see different patterns, if they exist, based on their tariff plans and based on the acorn groups. Curious to see if weather impacts energy consumption and does that vary across groups. Were able to visualize various parameters and could see trends on energy consumption within and across Acorn groups.
 
-###Dependencies:
-####Python Packages used:
+### Dependencies:
+
+#### Python Packages used:
 	pandas
 	numpy 
 	matplotlib
@@ -16,7 +17,7 @@
 	plotly
 	calendar
 
-####Dataset used:
+#### Dataset used:
 1. informations_households.xls : Contains all the information on the households including type of acorn group and type of tariff plan used in each household respectively.
 
 2. Halfhourly_dataset.zip : Zip file contains the block files with the half-hourly smart meter measurement. Since, we could not read all the block files present in folder because of its size, we chose a few blocks representing each ACORN group( Affluent/ Comfortable/ Adversity).
@@ -28,17 +29,17 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 5.Tariff:Contains half hourly Tariff rates(High, Normal, Low) for the households subscribed to Dynamic Time of Use plan for the year 2013.
 
-###Table Of Contents:
+### Table Of Contents:
 
-####Reading Datasets
+#### Reading Datasets
 
-####Cleaning Datasets
+#### Cleaning Datasets
 
-####Visualization
+#### Visualization
 
-####Interpretations 
+#### Interpretations 
 
-####Summary
+#### Summary
 
 
 
