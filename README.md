@@ -8,8 +8,8 @@
 ### Dependencies:
 
 #### Python Packages used:
-	⋅⋅*pandas
-	⋅⋅*numpy 
+	* pandas
+	* numpy 
 	matplotlib
 	seaborn 	
 	datetime 
