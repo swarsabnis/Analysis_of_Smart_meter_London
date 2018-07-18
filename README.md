@@ -40,6 +40,8 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 #### Cleaning Datasets
 
+[Link to Jupyter Notebook for Cleaning](Jupyter Notebook/Smart_meter_london_cleaning_data.ipynb)
+
 #### Visualization
 
 #### Interpretations 
