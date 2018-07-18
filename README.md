@@ -8,14 +8,15 @@
 ### Dependencies:
 
 #### Python Packages used:
-
-	1.pandas
-	2.numpy 
-	3.matplotlib
-	4.seaborn 	
-	5.datetime 
-	6.plotly
-	7.calendar
+<ol>
+	pandas
+	numpy 
+	matplotlib
+	seaborn 	
+	datetime 
+	plotly
+	calendar
+</ol>
 
 #### Dataset used:
 1. informations_households.xls : Contains all the information on the households including type of acorn group and type of tariff plan used in each household respectively.
