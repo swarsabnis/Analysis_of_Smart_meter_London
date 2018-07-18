@@ -19,7 +19,7 @@
 </ol>
 
 #### Dataset used:
-<ol>
+<ol, type='i'>
 <li>informations_households.xls : Contains all the information on the households including type of acorn group and type of tariff plan used in each household respectively.</li>
 
 <li>Halfhourly_dataset.zip : Zip file contains the block files with the half-hourly smart meter measurement. Since, we could not read all the block files present in folder because of its size, we chose a few blocks representing each ACORN group( Affluent/ Comfortable/ Adversity).
