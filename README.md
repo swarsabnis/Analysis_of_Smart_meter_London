@@ -19,16 +19,18 @@
 </ol>
 
 #### Dataset used:
-1. informations_households.xls : Contains all the information on the households including type of acorn group and type of tariff plan used in each household respectively.
+<ol>
+<li>informations_households.xls : Contains all the information on the households including type of acorn group and type of tariff plan used in each household respectively.</li>
 
-2. Halfhourly_dataset.zip : Zip file contains the block files with the half-hourly smart meter measurement. Since, we could not read all the block files present in folder because of its size, we chose a few blocks representing each ACORN group( Affluent/ Comfortable/ Adversity).
-Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80, Block_95, Block_96, Block_105
+<li>Halfhourly_dataset.zip : Zip file contains the block files with the half-hourly smart meter measurement. Since, we could not read all the block files present in folder because of its size, we chose a few blocks representing each ACORN group( Affluent/ Comfortable/ Adversity).
+Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80, Block_95, Block_96, Block_105</li>
 
-3.acorn_details.xls : Contains detail on acorn groups and profile of individuals in each group based on social, demographic, economic and other differentiating aspects.The first three columns are the attributes studied, the ACORN-* is the index of the attribute for each acorn group. At a national scale, the index is 100 if for one column the value is 150 it means that there are 1.5 times more people with this attribute in the ACORN group than at the national scale. You can find an explanation on the CACI website.<a href="https://acorn.caci.co.uk/what-is-acorn">CACI website </a>
+<li>acorn_details.xls : Contains detail on acorn groups and profile of individuals in each group based on social, demographic, economic and other differentiating aspects.The first three columns are the attributes studied, the ACORN-* is the index of the attribute for each acorn group. At a national scale, the index is 100 if for one column the value is 150 it means that there are 1.5 times more people with this attribute in the ACORN group than at the national scale. You can find an explanation on the CACI website.<a href="https://acorn.caci.co.uk/what-is-acorn">CACI website </a></li>
 
-4. weather_hourly_darksky.csv : Contains hourly data from darksky api. It consists of hourly weather information across UK including minimum-maximum temperature and wind data.
+<li>weather_hourly_darksky.csv : Contains hourly data from darksky api. It consists of hourly weather information across UK including minimum-maximum temperature and wind data.</li>
 
-5.Tariff:Contains half hourly Tariff rates(High, Normal, Low) for the households subscribed to Dynamic Time of Use plan for the year 2013.
+<li>Tariff:Contains half hourly Tariff rates(High, Normal, Low) for the households subscribed to Dynamic Time of Use plan for the year 2013.</li>
+</ol>
 
 ### Table Of Contents:
 
