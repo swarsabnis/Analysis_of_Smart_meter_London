@@ -9,13 +9,13 @@
 
 #### Python Packages used:
 <ol>
-	pandas
-	numpy 
-	matplotlib
-	seaborn 	
-	datetime 
-	plotly
-	calendar
+	<li>pandas</li>
+	<li>numpy </li>
+	<li>matplotlib</li>
+	<li>seaborn </li>	
+	<li>datetime </li>
+	<li>plotly</li>
+	<li>calendar</li>
 </ol>
 
 #### Dataset used:
