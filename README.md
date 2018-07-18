@@ -1,6 +1,7 @@
 
-<font color='#114B5F'>
-# SmartMeter and its impact on energy consumption in UK
+<span style= "color:#114B5F;">
+	
+#  SmartMeter and its impact on energy consumption in UK
 <p>This repo is used to understand energy consumption pattern in UK. The dataset consisted of 5,566 London households and their energy consumption between November 2011 and February 2014. The readings for each household were taken every half hour. Households in UK have been allocated to CACI ACORN(Classification of Residential Neighborhoods) groups, which is a geo-demographic segmentation of UK's population. UK energy Tariff plans are broadly categorized into two groups: Dynamic Time of Use and Standard. The Dynamic Time of Use plan is set up so that each household is made aware of its tariff prices(high, low and normal) a day in advanced and the Standard plan has a constant flat rate daily. </p>
 
 <p>This dataset was used to understand energy consumption patterns across different ACORN groups. Initial analysis consisted of understanding the different ACORN groups and the difference between them. The next steps of analysis consisted of a deep dive into the dataset which contains the records of household energy consumption (monitored every half hour) to try to establish different consumption patterns based on tariff plans and the ACORN groups. Analysis of weather impacts on energy consumption across groups was also conducted. The resulting output comprised of visualizations of various parameters which exhibit energy consumption trends  within and across ACORN groups.</p>
@@ -44,5 +45,5 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 #### Summary
 
-</font>
 
+</span>
