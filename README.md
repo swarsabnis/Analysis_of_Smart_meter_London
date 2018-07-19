@@ -39,11 +39,13 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 #### Reading Datasets
 
 #### Cleaning Datasets
-<a href="https://github.com/swarsabnis/Smart_meter_London/blob/master/Jupyter%20Notebooks/Smart_meter_london_cleaning_data.ipynb">Link to Jupyter Notebook for Cleaning</a>
+<a href="https://github.com/swarsabnis/Smart_meter_London/blob/master/Jupyter_Notebooks/Smart_meter_london_cleaning_data.ipynb">Link to Jupyter Notebook for Cleaning</a>
 
 #### Visualization
 
 #### Interpretations 
+<a href="https://github.com/swarsabnis/Smart_meter_London/blob/master/Jupyter_Notebooks/Smart_meter_london_visualizations.ipynb">Link to Jupyter Notebook for Visualization</a>
+
 
 #### Summary
 
