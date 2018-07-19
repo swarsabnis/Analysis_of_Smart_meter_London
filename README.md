@@ -1,7 +1,7 @@
 
 
 	
-#  Analysis of Smart Meter in United Kingdom
+#  					Analysis of Smart Meter in United Kingdom
 
 <p> This repo is used to understand energy consumption pattern in UK. The dataset consisted of 5,566 London households and their energy consumption between November 2011 and February 2014. The readings for each household were taken every half hour. Households in UK have been allocated to CACI ACORN(Classification of Residential Neighborhoods) groups, which is a geo-demographic segmentation of UK's population. UK energy Tariff plans are broadly categorized into two groups: Dynamic Time of Use and Standard. The Dynamic Time of Use plan is set up so that each household is made aware of its tariff prices(high, low and normal) a day in advanced and the Standard plan has a constant flat rate daily. </p>
 
@@ -47,15 +47,20 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 #### Summary
 
 
+
+### 						Inline Visualization
+
 ![Screenshot](hourly.png)
 
 <p>Energy usage is very high during evening hours,less during day time and mean energy usage dips down to the lowest during late night hours. Interesting to see that this pattern remains same irrespective of their tariff rates (high, normal, low).</p>
 
 ![Screenshot_2](consumption_per_month.png)
 
-<p>Energy consumption is high between month of December-March which eventually drops down for the rest of the year. Temperature (green Line) is plotted on Y-axis located on the right side, the average temperature for the months December to March was below 5°C and explains higher energy consumption during this period as heating systems would be used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
+<p>Energy consumption is high between month of December-March which eventually drops down for the rest of the year. Temperature (green Line) is plotted on Y-axis located on the right side, the average temperature for the same months was below 5°C and explains higher energy consumption during this period as heating systems would be used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
 
 
+
+### 							Summary
 
 
 
