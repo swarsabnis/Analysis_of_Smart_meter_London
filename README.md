@@ -1,7 +1,7 @@
 
 
 	
-<h1 align="center"> Analysis of Smart Meter in United Kingdom </h>
+# Analysis of Smart Meter in United Kingdom 
 
 <p> This repo is used to understand energy consumption pattern in UK. The dataset consisted of 5,566 London households and their energy consumption between November 2011 and February 2014. The readings for each household were taken every half hour. Households in UK have been allocated to CACI ACORN(Classification of Residential Neighborhoods) groups, which is a geo-demographic segmentation of UK's population. UK energy Tariff plans are broadly categorized into two groups: Dynamic Time of Use and Standard. The Dynamic Time of Use plan is set up so that each household is made aware of its tariff prices(high, low and normal) a day in advanced and the Standard plan has a constant flat rate daily. </p>
 
@@ -48,7 +48,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 
 
-### 						Inline Visualization
+### Inline Visualization
 
 ![Screenshot](hourly.png)
 
@@ -60,7 +60,9 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 
 
-### 							Summary
+### Summary
+
+<p> Energy consumption is never same during entire cycle of day. It varies based on temperature around and different tariff plans (Std/DToU), subscribers have. ACORN groups show unique characteristics when visualized on their income and debt index. Digging deeper for just group K, we see that occupation of people belonging to Group K answers their economic indices.</p>
 
 
 
