@@ -36,16 +36,13 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 ## Table Of Contents:
 
-#### Reading Datasets
-
-#### Cleaning Datasets
+#### Reading & Cleaning Datasets
 <a href="https://github.com/swarsabnis/Smart_meter_London/blob/master/Jupyter_Notebooks/Smart_meter_london_cleaning_data.ipynb">Link to Jupyter Notebook for Cleaning</a>
 
-#### Visualization
-
-#### Interpretations 
+#### Visualization & Interpretations 
 <a href="https://github.com/swarsabnis/Smart_meter_London/blob/master/Jupyter_Notebooks/Smart_meter_london_visualizations.ipynb">Link to Jupyter Notebook for Visualization</a>
 
+#### Inline Visualization
 
 #### Summary
 
@@ -57,5 +54,8 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 ![Screenshot_2](consumption_per_month.png)
 
 <p>From the chart, it seems that there is a pattern followed by all the ACORN groups throughout the year. All the three ACORN groups, in general, have high energy consumption in month of December, January, February and March which eventually drops down for the rest of the year.Weather information on second Y-axis located on the right side of the plot. Weather (green line) shows that the average temperature for the months of December, January, February and March was below 5°C.It explains higher energy consumption during this period as heating systems would have been used extensively. So, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
+
+
+
 
 
