@@ -49,11 +49,11 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 ![Screenshot](hourly.png)
 
-<p>Energy consumption is not the same throughout the day, energy needs change every hour. The usage is very high during evening hours and less during day time. As expected, the mean energy usage dips down to the lowest during late night hours. Interesting to see that this pattern remains same irrespective of their tariff rates (high, normal, low). Also, it is seen that when high rates are charged, subscribers tend to use little less energy so as to reduce their total expenses. Whereas, at lower rates, the average energy consumption is more compared to when high/normal energy rates were applied.</p>
+<p>Energy usage is very high during evening hours,less during day time and mean energy usage dips down to the lowest during late night hours. Interesting to see that this pattern remains same irrespective of their tariff rates (high, normal, low).</p>
 
 ![Screenshot_2](consumption_per_month.png)
 
-<p>From the chart, it seems that there is a pattern followed by all the ACORN groups throughout the year. All the three ACORN groups, in general, have high energy consumption in month of December, January, February and March which eventually drops down for the rest of the year.Weather information on second Y-axis located on the right side of the plot. Weather (green line) shows that the average temperature for the months of December, January, February and March was below 5°C.It explains higher energy consumption during this period as heating systems would have been used extensively. So, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
+<p>All the three ACORN groups, in general, have high energy consumption between month of December-March which eventually drops down for the rest of the year. Weather information(green Line) is plotted on second Y-axis located on the right side, shows that the average temperature for the months December to March was below 5°C and explains higher energy consumption during this period as heating systems would have been used extensively. So, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
 
 
 
