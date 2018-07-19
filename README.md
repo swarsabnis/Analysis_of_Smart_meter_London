@@ -50,5 +50,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 ![Screenshot](hourly.png)
 
+![Screenshot_2](consumption_per_month.png)
+
 
 
