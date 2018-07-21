@@ -61,9 +61,9 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 ### <a id='summary-anchor'></a>Summary
 
 <p> To summarize, energy consumption depends on:
-<ol>
+
 	<ul>Temperature</ul>
 	<ul>Applied tariff rates</ul> 
 	<ul>Different tariff plans</ul>
-	<ul>ACORN classification</ul></ol>
+	<ul>ACORN classification</ul>
 </p>
