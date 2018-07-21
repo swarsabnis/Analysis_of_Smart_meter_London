@@ -19,8 +19,11 @@
 </ol>
 
 ### Datasets used:
-<p> Note: Due to huge data size, we havent kept a dataset folder. You can find the dataset in the following link:
-<a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london">Dataset from Kaggle</a>	
+<p> Note: Due to huge data size, we havent kept a dataset folder. Datasets can be found here:
+<ol><li><a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london">Dataset from Kaggle</a></li>
+<li><a href="https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households"> Tariff rates</a></li></ol>
+
+
 <ol type="decimal">
 <li>Informations_households.xls : It contains all the information on the households including their ACORN group classification and type of tariff plan to which they are subscribed.</li>
 
