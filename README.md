@@ -60,4 +60,10 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 ### <a id='summary-anchor'></a>Summary
 
-<p> Energy consumption is never same during entire cycle of day. It varies based on temperature around and different tariff plans (Std/DToU), subscribers have. ACORN groups show unique characteristics when visualized on their income and debt index. Digging deeper for just group K, we see that occupation of people belonging to Group K answers their economic indices.</p>
+<p> To summarize, energy consumption depends on:
+<ol>
+	<ul>Temperature</ul>
+	<ul>Applied tariff rates</ul> 
+	<ul>Different tariff plans</ul>
+	<ul>ACORN classification</ul></ol>
+</p>
