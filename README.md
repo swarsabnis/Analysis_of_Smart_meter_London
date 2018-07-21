@@ -53,8 +53,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 <p>Energy usage is very high during evening hours, less during day time and mean energy usage dips down to the lowest during late night hours. This pattern remains same irrespective of their tariff rates (high, normal, low). Also, it is seen that less energy is consumed when high rates are charged.</p>
 
 
-![image7](https://user-images.githubusercontent.com/31700068/42984741-e8af4bc2-8ba2-11e8-96e8-31d42b5bf524.png)
-
+![weather](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/Weather.png)
 <p>Energy consumption is high from December to March. Temperature (green Line) is plotted on Y-axis located on the right side, the average temperature for the same period was below 5°C and thus, this explains higher energy consumption during this period as heating systems would have been used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
 
 
