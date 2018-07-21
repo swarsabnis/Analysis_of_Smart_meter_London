@@ -19,6 +19,8 @@
 </ol>
 
 ### Datasets used:
+<p> Note: Due to huge data size, we havent kept a dataset folder. You can find the dataset in the following link:
+<a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london">Dataset from Kaggle</a>	
 <ol type="decimal">
 <li>Informations_households.xls : It contains all the information on the households including their ACORN group classification and type of tariff plan to which they are subscribed.</li>
 
@@ -31,6 +33,8 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 <li>Tariff:It contains half hourly tariff rates(High, Normal, Low) for the households subscribed to Dynamic Time of Use plan for the year 2013.</li>
 </ol>
+
+
 
 ## Table Of Contents:
 
