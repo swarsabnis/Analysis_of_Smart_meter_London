@@ -21,7 +21,7 @@
 ### Datasets used:
 <p> Note: Due to huge data size, we havent kept a dataset folder. Datasets can be found here:
 <ul><li><a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london">Dataset from Kaggle</a></li>
-<li><a href="https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households"> Tariff rates</a></li></ul>
+<li><a href="https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households"> Tariff rates</a></li></ul></p>
 
 
 <ol type="decimal">
@@ -50,7 +50,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 #### [Inline Visualization](#viz-anchor)
 
 #### [Summary](#summary-anchor)
-####[Next Steps](#nextstep-anchor)
+#### [Next Steps](#nextstep-anchor)
 
 
 
