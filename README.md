@@ -50,6 +50,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 #### [Inline Visualization](#viz-anchor)
 
 #### [Summary](#summary-anchor)
+####[Next Steps](#nextstep-anchor)
 
 
 
@@ -69,17 +70,17 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 <p> To summarize, energy consumption depends on:
 <ul>
-	<li>Temperature</li>
-	<li>Applied tariff rates</li> 
-	<li>Different tariff plans</li>
+	<li>Temperature
+	<li>Applied tariff rates
+	<li>Different tariff plans
 	<li>ACORN classification</li></ul>
 </p>
 
-###  <a id='next_step'></a> Next Steps
+###  <a id='nextstep-anchor'></a> Next Steps
 
 some visualizations could be plotted for the following :
 <ol>
-	<li>Energy consumption pattern during weekday v/s weekend</li>
-	<li>How holiday season impacts energy consumption</li>
-	<li> forecasting energy consumption<li></ol>
+	<li>Energy consumption pattern during weekday v/s weekend
+	<li>How holiday season impacts energy consumption
+	<li> forecasting energy consumption</li></ol>
 
