@@ -74,3 +74,12 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 	<li>Different tariff plans</li>
 	<li>ACORN classification</li></ul>
 </p>
+
+###  <a id='next_step'></a> Next Steps
+
+some visualizations could be plotted for the following :
+<ol>
+	<li>Energy consumption pattern during weekday v/s weekend</li>
+	<li>How holiday season impacts energy consumption</li>
+	<li> forecasting energy consumption<li></ol>
+
