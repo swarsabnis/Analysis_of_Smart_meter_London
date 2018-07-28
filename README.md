@@ -56,16 +56,19 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 ### <a id='viz-anchor'></a>Inline Visualizations
 
-![image8](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/image8.png)
+
+
+<ol type="decimal">
+<li> ![image8](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/image8.png)
 
 <p>Energy usage is very high during evening hours, less during day time and mean energy usage dips down to the lowest during late night hours. This pattern remains same irrespective of their tariff rates (high, normal, low). Also, it is seen that less energy is consumed when high rates are charged.</p>
 
-![image5](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/image5.png)
+<li> ![image5](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/image5.png)
 <p>  The average energy consumption by different tariff plan subcribers for each ACORN classification over a span of roughly 2 years. It was seen that mean energy consumption for DToU subcribers were lower than the standard tariff plan subscribers in the case of Affluent and Adversity ACORN groups whereas for the comfortable ACORN group it was exactly opposite.</p>
 
 
-![weather](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/Weather.png)
-<p>Energy consumption is high from December to March. Temperature (green Line) is plotted on Y-axis located on the right side, the average temperature for the same period was below 5°C and thus, this explains higher energy consumption during this period as heating systems would have been used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
+<li> ![weather](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/Weather.png)
+<p>Energy consumption is high from December to March. Temperature (green Line) is plotted on Y-axis located on the right side, the average temperature for the same period was below 5°C and thus, this explains higher energy consumption during this period as heating systems would have been used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p></li></ol>
 
 
 
