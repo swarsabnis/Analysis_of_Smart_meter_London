@@ -69,6 +69,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 ### <a id='summary-anchor'></a>Summary
 
 <p> To summarize, energy consumption depends on:
+
 <ul>
 	<li>Temperature
 	<li>Applied tariff rates
