@@ -67,7 +67,9 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
 
 <p> 3.Temperature vs mean energy consumption per ACORN group</p>
-	![weather](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/Weather.png)
+
+(https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/Weather.png)
+	
 <p>Energy consumption is high from December to March. Temperature (green Line) is plotted on Y-axis located on the right side, the average temperature for the same period was below 5°C and thus, this explains higher energy consumption during this period as heating systems would have been used extensively. Thus, temperature change plays a major role in energy consumption irrespective of different ACORN groups.</p>
 
 
