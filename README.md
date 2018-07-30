@@ -62,7 +62,7 @@ Blocks used : Block_0, Block_2, Block_4, Block_62, Block_78, Block_79, Block_80,
 
  
    
-![image5](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/newplot.png)
+![image5](https://github.com/swarsabnis/Analysis_of_Smart_meter_London/blob/master/Images/newplot%20.png)
 <p>  The average energy consumption by different tariff plan subcribers for each ACORN classification over a span of roughly 2 years. It was seen that mean energy consumption for DToU subcribers were lower than the standard tariff plan subscribers in the case of Affluent and Adversity ACORN groups whereas for the comfortable ACORN group it was exactly opposite.</p>
 
 
